@@ -52,5 +52,5 @@ The app supports various configuration options through the UI:
 
 ## 🙏 Acknowledgments
 
-- [Bria AI](https://bria.ai) for their powerful image generation APIs
+
 - [Streamlit](https://streamlit.io) for the amazing web framework
